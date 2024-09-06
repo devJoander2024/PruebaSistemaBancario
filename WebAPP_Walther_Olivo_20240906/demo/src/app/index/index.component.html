@@ -1,0 +1,44 @@
+<!-- <nav  class="navbar navbar-expand-lg navbar-expand-xl navbar-dark bg-dark mb-4">
+  
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav mr-auto">
+      
+    
+ 
+    </ul>
+
+    <form class="form-inline my-2 my-lg-0">
+       <button  class="btn btn-outline-success my-2 my-sm-0" routerLink="/login" type="submit">
+        <i class="fas fa-sign-in-alt"></i> Iniciar Sesión</button>
+    
+ 
+    </form>
+    
+  </div>
+</nav> -->
+
+<app-menu></app-menu>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1 *ngIf="!nombreUsuario" class="display-4">Hello, world!</h1>
+        <h1 *ngIf="nombreUsuario" class="display-4">Hello, {{nombreUsuario}}</h1>
+        <p class="lead">"Bienvenido a OlimacServices, una empresa especializada en el desarrollo de software a medida. Nos enorgullece ofrecer soluciones innovadoras y personalizadas que satisfacen las necesidades únicas de nuestros clientes.
+
+          En OlimacServices, entendemos que cada negocio tiene requisitos distintos, por lo que nos dedicamos a crear aplicaciones y sistemas personalizados que impulsen el crecimiento y la eficiencia de tu empresa. Nuestro equipo de desarrolladores altamente capacitados y experimentados trabaja en estrecha colaboración contigo para comprender tus objetivos y convertir tus ideas en realidad.
+          
+          Ya sea que necesites un software de gestión empresarial, una aplicación móvil o una plataforma web, estamos aquí para ayudarte. Utilizamos las últimas tecnologías y metodologías de desarrollo para construir soluciones escalables, seguras y de alto rendimiento.
+          
+          En OlimacServices, la calidad y la satisfacción del cliente son nuestras principales prioridades. Nos esforzamos por ofrecer productos y servicios de la más alta calidad, garantizando que cada proyecto se entregue a tiempo y dentro del presupuesto acordado.
+          
+          Además del desarrollo de software, también brindamos servicios de consultoría para ayudarte a optimizar tus procesos y mejorar la eficiencia de tu negocio. Nuestro compromiso es brindarte el apoyo necesario en todas las etapas, desde la concepción de la idea hasta la implementación y el soporte continuo"</p>
+        <hr class="my-4">
+        <p>
+          
+          Explora nuestro sitio web para obtener más información sobre nuestros servicios, proyectos anteriores y testimonios de clientes satisfechos. ¡Confía en OlimacServices para impulsar la transformación digital de tu empresa y llevarla al siguiente nivel!</p>
+        <a class="btn btn-primary btn-lg"  target="_blank" href="https://gitlab.com/Walther_Olivo" role="button">Contactame</a>
+      </div>
+</div>
+
+
+<app-footer></app-footer>

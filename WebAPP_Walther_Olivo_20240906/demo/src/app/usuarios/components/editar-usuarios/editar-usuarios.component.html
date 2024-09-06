@@ -1,0 +1,45 @@
+<app-menu></app-menu>
+<div class="container" *ngIf="usuario">
+    <div class="row mt-5">
+        <div class="col-md-4 mx-auto">
+            <form (ngSubmit)="onUpdate()" novalidate #f="ngForm">
+                <div class="form-group">
+                    <label for="nombre">Nombre</label>
+                    <input type="text" class="form-control" id="nombre" name="nombre"
+                    [(ngModel)]="usuario.nombre" required>
+                </div>
+                <div class="form-group">
+                    <label for="apellido">Apellido</label>
+                    <input type="text" class="form-control" id="apellido" name="apellido"
+                    [(ngModel)]="usuario.apellido" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" name="email"
+                    [(ngModel)]="usuario.email" required>
+                </div>
+                <div class="form-group">
+                    <label for="nombreUsuario">Nombre de usuario</label>
+                    <input type="text" class="form-control" id="nombreUsuario" name="nombreUsuario"
+                    [(ngModel)]="usuario.nombreUsuario" required>
+                </div>
+
+                <div class="form-group">
+
+                    <label for="estado">Estado</label>
+                    <select  [(ngModel)]="usuario.estado"  name="estado" id="estado" class="form-control" id="exampleFormControlSelect">
+                      <option value="A">A</option>
+                      <option value="I">I</option>
+                    </select>
+                  </div>
+             
+                <button class="btn btn-outline-success btn-block" [disabled]="!f.valid">
+                    <i class="fas fa-pencil-alt"></i> Actualizar</button>
+                <button class="btn btn-outline-primary btn-block" routerLink="/listar-usuarios">
+                    <i class="fas fa-arrow-alt-circle-left"></i> Volver</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<app-footer></app-footer>

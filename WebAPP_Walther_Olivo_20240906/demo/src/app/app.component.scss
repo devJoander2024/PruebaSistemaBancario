@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
+  .content-container {
+    flex: 1;
+    padding: 100px;
+  }
+  app-footer {
+    margin-top: auto;
+  }

@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\controllers\\tipoprestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\controllers\\tipoprestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\dtos\\createprestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\dtos\\createprestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\models\\tipoprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\models\\tipoprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Migrations\\20240906183643_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PruebaWaltherOlivoEventos\\Migrations\\20240906183643_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|c:\\users\\wolivo\\documents\\wolivo\\.net\\asp .net core web api\\pruebawaltherolivoeventos\\pruebawaltherolivoeventos\\dtos\\genericresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89C7093-CD6D-43AF-AFF5-876850A0AC8D}|PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos.csproj|solutionrelative:pruebawaltherolivoeventos\\dtos\\genericresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 62,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Controllers\\PrestamoController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:51:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePrestamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Dtos\\CreatePrestamoDto.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Dtos\\CreatePrestamoDto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Dtos\\CreatePrestamoDto.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Dtos\\CreatePrestamoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:50:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:50:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoPrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Controllers\\TipoPrestamoController.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Controllers\\TipoPrestamoController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Controllers\\TipoPrestamoController.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Controllers\\TipoPrestamoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:39:41.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240906183643_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Migrations\\20240906183643_Initial.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Migrations\\20240906183643_Initial.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Migrations\\20240906183643_Initial.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Migrations\\20240906183643_Initial.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:36:43.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Enum\\UserRole.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:28:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Dtos\\GenericResponseDto.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Dtos\\GenericResponseDto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Dtos\\GenericResponseDto.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Dtos\\GenericResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:28:56.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Models\\Prestamo.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:26:23.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Models\\User.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:26:18.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Models\\TipoPrestamo.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Models\\TipoPrestamo.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Models\\TipoPrestamo.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Models\\TipoPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:26:11.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\appsettings.json",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\appsettings.json",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T18:23:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA+wA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:23:13.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PruebaWaltherOlivoEventos\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\.net\\asp .net core web api\\PruebaWaltherOlivoEventos\\PruebaWaltherOlivoEventos\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PruebaWaltherOlivoEventos\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAYwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:19:08.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

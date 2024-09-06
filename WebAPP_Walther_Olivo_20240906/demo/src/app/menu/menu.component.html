@@ -1,0 +1,41 @@
+<nav  class="navbar navbar-expand-lg navbar-expand-xl navbar-dark bg-dark mb-4">
+
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link"  routerLink="/"><i class="fas fa-home"></i> Inicio</a>
+      </li>
+      <li class="nav-item" >
+        <a class="nav-link" routerLink="/listar-usuarios"><i class="far fa-list-alt"></i> Usuarios</a>
+      </li>
+      <li class="nav-item" >
+        <a class="nav-link" routerLink="/listar-prestamos"><i class="far fa-list-alt"></i> Préstamos</a>
+      </li>
+      <li class="nav-item" >
+        <a class="nav-link" routerLink="/listar-tipo-prestamos"><i class="far fa-list-alt"></i> Tipos de Préstamos</a>
+      </li>
+
+    </ul>
+
+    <form class="form-inline my-2 my-lg-0">
+
+
+      <div class="dropdown">
+        <button class="btn btn-primary rounded-circle dropdown-toggle" type="button" id="profileDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <i class="fas fa-user"></i>
+        </button>
+        <div class="dropdown-menu dropdown-menu-custom">
+          <button class="dropdown-item" type="button">Perfil</button>
+          <button class="dropdown-item" type="button">Cambiar Contraseña</button>
+          <button  (click)="onLogOut()" type="reset" class="dropdown-item" type="button">Log
+            out</button>
+        </div>
+      </div>
+
+
+
+    </form>
+
+  </div>
+</nav>
